@@ -1,5 +1,6 @@
 ## Hi there 👋
-![student_ID-2-min-2](https://github.com/user-attachments/assets/32bc1235-d9dd-4421-b6b7-a0bc20719de7)
+<img width="586" alt="Screenshot 2024-12-08 at 8 38 05 PM" src="https://github.com/user-attachments/assets/9df09b87-f9cc-454f-9e38-c21b1c777e1e">
+
 
 <!--
 **nataliecclaire/nataliecclaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

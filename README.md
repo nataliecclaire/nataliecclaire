@@ -25,10 +25,15 @@ My name is Natalie (she/her) - welcome to my Github! I'm a sophomore studying co
 ⚡Fun fact: I once coded an Arduino kit to create a Candy-Crush style game that looks like BMO from Adventure Time!
 
 Reach out to me through...
+
 -Email: nataliecmckenzie@gmail.com
+
 -Phone: (206) 371-8974
 
 Check out some of my recent work:
+
 -Fall AI Studio Project - Reddit Bias Detector: https://github.com/nataliecclaire/reddit_bias_sentiment_detector
+
 -Break Through Tech Capstone: https://github.com/nataliecclaire/customer_subscription_to_campaign_calls
+
 -Cancer Classifier: https://github.com/nataliecclaire/cancer_classifier

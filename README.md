@@ -1,4 +1,5 @@
 ## Hi there 👋
+![student_ID-2-min-2](https://github.com/user-attachments/assets/32bc1235-d9dd-4421-b6b7-a0bc20719de7)
 
 <!--
 **nataliecclaire/nataliecclaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +22,12 @@ My name is Natalie (she/her) - welcome to my Github! I'm a sophomore studying co
 🤔 Feel free to take a look at some of my other projects I've conducted through the years!
 
 ⚡Fun fact: I once coded an Arduino kit to create a Candy-Crush style game that looks like BMO from Adventure Time!
+
+Reach out to me through...
+-Email: nataliecmckenzie@gmail.com
+-Phone: (206) 371-8974
+
+Check out some of my recent work:
+-Fall AI Studio Project - Reddit Bias Detector: https://github.com/nataliecclaire/reddit_bias_sentiment_detector
+-Break Through Tech Capstone: https://github.com/nataliecclaire/customer_subscription_to_campaign_calls
+-Cancer Classifier: https://github.com/nataliecclaire/cancer_classifier

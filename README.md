@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Natalie (she/her) - welcome to my Github! I'm a sophomore studying computer science at Columbia University and a current AI fellow at Break Through Tech. Over recent months, I’ve been working in a team with Meta to develop a natural language processing model that detects demographic bias.
+
+I’ve been building my skills in linear algebra and applied machine learning in and out of the classroom. I’m currently working on a project under a professor at my school, Dr. Laine, to develop a convolutional neural network that conducts brain segmentation of 3D CTI images.
+
+Feel free to take a look at some of my other projects I've conducted through the years!
+
+Fun fact: I once coded an Arduino kit to create a Candy-Crush style game that looks like BMO from Adventure Time!

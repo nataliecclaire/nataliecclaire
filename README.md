@@ -1,5 +1,4 @@
 ## Hi there 👋
-<img width="586" alt="Screenshot 2024-12-08 at 8 38 05 PM" src="https://github.com/user-attachments/assets/9df09b87-f9cc-454f-9e38-c21b1c777e1e">
 
 
 <!--
@@ -37,3 +36,5 @@ Check out some of my recent work:
 -Break Through Tech Capstone: https://github.com/nataliecclaire/customer_subscription_to_campaign_calls
 
 -Cancer Classifier: https://github.com/nataliecclaire/cancer_classifier
+
+<img width="293" alt="Screenshot 2024-12-08 at 8 38 05 PM" src="https://github.com/user-attachments/assets/9df09b87-f9cc-454f-9e38-c21b1c777e1e">

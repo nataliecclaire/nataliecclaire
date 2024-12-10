@@ -19,19 +19,7 @@ My name is Natalie (she/her) - welcome to my Github! I'm a sophomore studying co
 
 🌱 I’ve been building my skills in linear algebra and applied machine learning in and out of the classroom. I’m currently working on a project under a professor at my school, Dr. Laine, to develop a convolutional neural network that conducts brain segmentation of 3D CTI images. The work and presentation for that is to be added soon!
 
-🤔 Feel free to take a look at some of my other projects I've conducted through the years!
-
-⚡Fun fact: I once coded an Arduino kit to create a Candy-Crush style game that looks like BMO from Adventure Time!
-
-<img width="293" alt="Screenshot 2024-12-10 at 3 30 35 PM" src="https://github.com/user-attachments/assets/f2cc2ef3-27d4-4451-b9ff-f26fbc3f92ff">
-
-Reach out to me through...
-
--Email: nataliecmckenzie@gmail.com
-
--Phone: (206) 371-8974
-
-Check out some of my recent work:
+🤔 Feel free to take a look at some of my other projects I've conducted through the years:
 
 -Fall AI Studio Project - Reddit Bias Detector: https://github.com/nataliecclaire/reddit_bias_sentiment_detector
 
@@ -40,4 +28,16 @@ Check out some of my recent work:
 -Linear Algebra Final Project - Cancer Classifier: https://github.com/nataliecclaire/cancer_classifier
   -> Here's the link to our final paper we submitted. Most of it is explaining the evaluation techniques we used and why they were beneficial: https://docs.google.com/document/d/1rZLcMH-zBnBLZ-WYvoDgVf1Mni-zYUYUnoLCB93gVeI/edit?usp=sharing
 
+⚡Fun fact: I once coded an Arduino kit to create a Candy-Crush style game that looks like BMO from Adventure Time!
+
+<img width="293" alt="Screenshot 2024-12-10 at 3 30 35 PM" src="https://github.com/user-attachments/assets/f2cc2ef3-27d4-4451-b9ff-f26fbc3f92ff">
+
 <img width="293" alt="Screenshot 2024-12-08 at 8 38 05 PM" src="https://github.com/user-attachments/assets/9df09b87-f9cc-454f-9e38-c21b1c777e1e">
+
+Thanks for stopping by!
+
+Reach out to me through...
+
+-Email: nataliecmckenzie@gmail.com
+
+-Phone: (206) 371-8974

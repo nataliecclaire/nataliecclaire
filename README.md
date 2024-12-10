@@ -32,7 +32,9 @@ My name is Natalie (she/her) - welcome to my Github! I'm a sophomore studying co
 
 <img width="293" alt="Screenshot 2024-12-10 at 3 30 35 PM" src="https://github.com/user-attachments/assets/f2cc2ef3-27d4-4451-b9ff-f26fbc3f92ff">
 
-<img width="293" alt="Screenshot 2024-12-08 at 8 38 05 PM" src="https://github.com/user-attachments/assets/9df09b87-f9cc-454f-9e38-c21b1c777e1e">
+Given the limited RAM of the Arduino, my check_matches method could not be implemented without risking the RGB matrix lighting, so at least you can swap the candies around and sort them by color!
+
+<img width="290" alt="Screenshot 2024-12-08 at 8 38 05 PM" src="https://github.com/user-attachments/assets/9df09b87-f9cc-454f-9e38-c21b1c777e1e">
 
 Thanks for stopping by!
 

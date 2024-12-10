@@ -23,6 +23,8 @@ My name is Natalie (she/her) - welcome to my Github! I'm a sophomore studying co
 
 ⚡Fun fact: I once coded an Arduino kit to create a Candy-Crush style game that looks like BMO from Adventure Time!
 
+![IMG_7922](https://github.com/user-attachments/assets/36fb470a-5220-4fd3-8fb6-cf6576c4dfe4)
+
 Reach out to me through...
 
 -Email: nataliecmckenzie@gmail.com

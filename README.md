@@ -19,6 +19,8 @@ My name is Natalie (she/her) - welcome to my Github! I'm a sophomore studying co
 
 🌱 I’ve been building my skills in linear algebra and applied machine learning in and out of the classroom. I’m currently working on a project under a professor at my school, Dr. Laine, to develop a convolutional neural network that conducts brain segmentation of 3D CTI images. The work and presentation for that is to be added soon!
 
+Currently, I'm reading up for my upcoming work at the AlQuraishi Lab at Columbia University! As a machine learning researcher at the lab, I'll be investigating how cross-attention, masked language modeling, and distributed training can open doors for effectively predicting protein-protein interactions and binding affinity!
+
 🤔 Feel free to take a look at some of my other projects I've conducted through the years:
 
 -Fall AI Studio Project - Reddit Bias Detector: https://github.com/nataliecclaire/reddit_bias_sentiment_detector

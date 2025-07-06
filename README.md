@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Natalie (she/her) - welcome to my Github! I'm a sophomore studying computer science at Columbia University and a current AI fellow at Break Through Tech. Over recent months, I’ve been working in a team with Meta to develop a natural language processing model that detects demographic bias. 👀
+My name is Natalie (she/her) - welcome to my Github! I'm a third year studying computer science at Columbia University and a machine learning/AI researcher with the AlQuraishi Lab at Columbia. In one of my recent projects, I worked in a team with Meta to develop a natural language processing model that detects demographic bias. 👀
 
-🌱 I’ve been building my skills in linear algebra and applied machine learning in and out of the classroom. I’m currently working on a project under a professor at my school, Dr. Laine, to develop a convolutional neural network that conducts brain segmentation of 3D CTI images. The work and presentation for that is to be added soon!
+I’ve been building my skills in linear algebra and applied machine learning in and out of the classroom. In Fall 2024, I completed a project under a professor at my school, Dr. Laine, to develop a convolutional neural network that conducts brain segmentation of 3D CTI images.
 
-Currently, I'm reading up for my upcoming work at the AlQuraishi Lab at Columbia University! As a machine learning researcher at the lab, I'll be investigating how cross-attention, masked language modeling, and distributed training can open doors for effectively predicting protein-protein interactions and binding affinity!
+Currently, I'm replicating data curation techniques from a few papers using the UniProt database, PyTorch, Pandas, Matplotlib, and more to benchmark the performance of leading protein language models. As a machine learning researcher at the lab, I'll be investigating how cross-attention, masked language modeling, and distributed training can open doors for effectively predicting protein-protein interactions and binding affinity!
 
 🤔 Feel free to take a look at some of my other projects I've conducted through the years:
 
@@ -28,7 +28,7 @@ Currently, I'm reading up for my upcoming work at the AlQuraishi Lab at Columbia
 -Break Through Tech Capstone - Predict Customer Subscription: https://github.com/nataliecclaire/customer_subscription_to_campaign_calls
 
 -Linear Algebra Final Project - Cancer Classifier: https://github.com/nataliecclaire/cancer_classifier
-  -> Here's the link to our final paper we submitted. Most of it is explaining the evaluation techniques we used and why they were beneficial: https://docs.google.com/document/d/1rZLcMH-zBnBLZ-WYvoDgVf1Mni-zYUYUnoLCB93gVeI/edit?usp=sharing
+  -> Here's the link to our final paper we submitted. Most of it is explaining the evaluation techniques used and why they were beneficial: https://docs.google.com/document/d/1rZLcMH-zBnBLZ-WYvoDgVf1Mni-zYUYUnoLCB93gVeI/edit?usp=sharing
 
 ⚡Fun fact: I once coded an Arduino kit to create a Candy-Crush style game that looks like BMO from Adventure Time!
 

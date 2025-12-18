@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Natalie (she/her) - welcome to my Github! I'm a third year studying computer science at Columbia University and a machine learning/AI researcher with the AlQuraishi Lab at Columbia. In one of my recent projects, I worked in a team with Meta to develop a natural language processing model that detects demographic bias. 👀
+My name is Natalie (she/her) - welcome to my Github! I'm a third year studying computer science at Columbia University and a machine learning/AI researcher with the AlQuraishi Lab at Columbia. In one of my recent projects, I worked in a team with Meta to develop a natural language processing model that detects demographic bias using BERT. 👀
 
 I’ve been building my skills in linear algebra and applied machine learning in and out of the classroom. In Fall 2024, I completed a project under a professor at my school, Dr. Laine, to develop a convolutional neural network that conducts brain segmentation of 3D CTI images.
 
@@ -35,8 +35,6 @@ Currently, I'm replicating data curation techniques from a few papers using the 
 <img width="293" alt="Screenshot 2024-12-10 at 3 30 35 PM" src="https://github.com/user-attachments/assets/f2cc2ef3-27d4-4451-b9ff-f26fbc3f92ff">
 
 Given the limited RAM of the Arduino, my check_matches method could not be implemented without risking the RGB matrix lighting, so at least you can swap the candies around and sort them by color!
-
-<img width="290" alt="Screenshot 2024-12-08 at 8 38 05 PM" src="https://github.com/user-attachments/assets/9df09b87-f9cc-454f-9e38-c21b1c777e1e">
 
 Thanks for stopping by!
 

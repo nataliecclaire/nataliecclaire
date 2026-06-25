@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Natalie (she/her) - welcome to my Github! I'm a third year studying computer science at Columbia University and a machine learning/AI researcher with the AlQuraishi Lab at Columbia. In one of my recent projects, I worked in a team with Meta to develop a natural language processing model that detects demographic bias using BERT. 👀
+My name is Natalie (she/her) - welcome to my Github! I'm an incoming fourth year studying computer science at Columbia University and a machine learning/AI researcher with the Internet Real Time Lab at Columbia University. In one of my recent projects, I worked in a team with Meta to develop a natural language processing model that detects demographic bias using BERT. 👀
 
 I’ve been building my skills in linear algebra and applied machine learning in and out of the classroom. In Fall 2024, I completed a project under a professor at my school, Dr. Laine, to develop a convolutional neural network that conducts brain segmentation of 3D CTI images.
 

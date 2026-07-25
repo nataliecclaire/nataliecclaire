@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 
 <!--
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Natalie (she/her) - welcome to my Github! I'm an incoming fourth year studying computer science at Columbia University and a machine learning/AI researcher with the Internet Real Time Lab at Columbia University. In one of my recent projects, I worked in a team with Meta to develop a natural language processing model that detects demographic bias using BERT. 👀
+My name is Natalie (she/her) - welcome to my Github! I'm an incoming fourth year studying computer science at Columbia University and a machine learning/AI researcher with the Internet Real Time Lab at Columbia University. In one of my recent projects, I worked in a team with Meta to develop a natural language processing model that detects demographic bias using BERT.
 
-I’ve been building my skills in linear algebra and applied machine learning in and out of the classroom. In Fall 2024, I completed a project under a professor at my school, Dr. Laine, to develop a convolutional neural network that conducts brain segmentation of 3D CTI images.
+I’ve been building my skills in linear algebra and applied machine learning in and out of the classroom. In Fall 2024, I completed a project under a professor at my school, Dr. Laine, to develop a convolutional neural network that conducts brain segmentation of 3D CTI images. Recently, I replicated data curation techniques from a few papers using the UniProt database, PyTorch, Pandas, Matplotlib, and more to benchmark the performance of leading protein language models for my work at the AlQuraishi Lab. As a machine learning researcher at the lab, I investigated how cross-attention, masked language modeling, and distributed training can open doors for effectively predicting protein-protein interactions and binding affinity!
 
-Currently, I'm replicating data curation techniques from a few papers using the UniProt database, PyTorch, Pandas, Matplotlib, and more to benchmark the performance of leading protein language models. As a machine learning researcher at the lab, I'll be investigating how cross-attention, masked language modeling, and distributed training can open doors for effectively predicting protein-protein interactions and binding affinity!
+Currently, I'm working at the Internet Real Time Lab as a Summer@SEAS researcher. Me and my team are building machine learning models to predict risk of a given company defaulting on BEAD funding based on real-world FCC broadband data and past defaulting data in the FCC's RDOF program. This research is a continuation and application of what I learned in my Internet Tech, Economics, and Policy class, supervised by Professor Henning Schulzrinne.
 
-🤔 Feel free to take a look at some of my other projects I've conducted through the years:
+Feel free to take a look at some of my other projects I've conducted through the years:
 
 -Fall AI Studio Project - Reddit Bias Detector: https://github.com/nataliecclaire/reddit_bias_sentiment_detector
 
@@ -30,7 +30,7 @@ Currently, I'm replicating data curation techniques from a few papers using the 
 -Linear Algebra Final Project - Cancer Classifier: https://github.com/nataliecclaire/cancer_classifier
   -> Here's the link to our final paper we submitted. Most of it is explaining the evaluation techniques used and why they were beneficial: https://docs.google.com/document/d/1rZLcMH-zBnBLZ-WYvoDgVf1Mni-zYUYUnoLCB93gVeI/edit?usp=sharing
 
-⚡Fun fact: I once coded an Arduino kit to create a Candy-Crush style game that looks like BMO from Adventure Time!
+⚡ Fun fact: I once coded an Arduino kit to create a Candy-Crush style game that looks like BMO from my favorite TV show, Adventure Time!
 
 <img width="293" alt="Screenshot 2024-12-10 at 3 30 35 PM" src="https://github.com/user-attachments/assets/f2cc2ef3-27d4-4451-b9ff-f26fbc3f92ff">
 
